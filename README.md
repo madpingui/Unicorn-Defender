@@ -1,4 +1,4 @@
-# Unicorn-Defender
+# Unicorn Defender
 You are a space unicorn that protects the earth from asteroids, level up and improve your skills against the big asteroids that will soon come, quickly go save humanity.
 
 ## Unicorn Defender 2D
